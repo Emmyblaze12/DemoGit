@@ -4,7 +4,7 @@ def divide(num1, num2):
 
 def multiply(num1,num2):
     result2 = num1*num2
-    print(result)
+    print(result2)
 
 
 multiply(6,2)
